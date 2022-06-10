@@ -88,9 +88,36 @@ h1 span {
 
 
 .about {
-    
+    /* display: flex;
+    justify-content: center; */
+    line-height: 30px;
     text-align: center;
+    font-family: 'Noto Sans', sans-serif;;
+    margin-top: 100px;
+    margin-bottom: 100px 
+    
 }
+
+h3 {
+    font-size: 26px;
+    font-weight: 900;
+}
+
+
+
+ p {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.button1 {
+    padding: 17px 40px 17px 40px;
+    background-color: #8dd7e9;
+    font-weight: 900;
+    border: none;
+}
+
+
 
 
 
